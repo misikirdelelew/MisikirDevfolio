@@ -34,6 +34,6 @@ Welcome to my GitHub repository! This repository serves as a showcase of my deve
 
 **Thank you for visiting my portfolio! If you have any questions, inquiries, or collaboration opportunities, feel free to reach out to me:**
 
-- **Email:** [Your Email Address]
+- **Email:** [onlinemisikir@gmail.com]
 - **LinkedIn:** [Your LinkedIn Profile]
 - **Website:** [Your Personal Website, if applicable]
